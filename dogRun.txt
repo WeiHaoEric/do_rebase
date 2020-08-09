@@ -1,1 +1,2 @@
-Dog is happy and running around the park
+Dog is happy and running around the park.
+Now Dog has a lot of fun today...!!
